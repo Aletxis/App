@@ -1,6 +1,6 @@
-streamlit
-pandas
-plotly
-thefuzz
-python-Levenshtein
+streamlit 
+pandas 
+plotly.express 
+datetime 
+thefuzz 
 re
